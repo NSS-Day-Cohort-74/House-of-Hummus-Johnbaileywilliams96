@@ -5,6 +5,7 @@ export const Sales = async () => {
         (sale) => {
                 let totalPrice = 0
                 let html = ""
+                
 
                 totalPrice = parseFloat(sale.entree.price)
                             + parseFloat(sale.vegetable.price)

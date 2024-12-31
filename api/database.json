@@ -166,6 +166,60 @@
       "sideId": 5,
       "vegetableId": 5,
       "entreeId": 12
+    },
+    {
+      "id": 7,
+      "sideId": 1,
+      "vegetableId": 2,
+      "entreeId": 2
+    },
+    {
+      "id": 8,
+      "sideId": 3,
+      "vegetableId": 5,
+      "entreeId": 7
+    },
+    {
+      "id": 9,
+      "sideId": 3,
+      "vegetableId": 5,
+      "entreeId": 7
+    },
+    {
+      "id": 10,
+      "sideId": 2,
+      "vegetableId": 5,
+      "entreeId": 8
+    },
+    {
+      "id": 11,
+      "sideId": 1,
+      "vegetableId": 1,
+      "entreeId": 1
+    },
+    {
+      "id": 12,
+      "sideId": 6,
+      "vegetableId": 2,
+      "entreeId": 2
+    },
+    {
+      "id": 13,
+      "sideId": 2,
+      "vegetableId": 1,
+      "entreeId": 1
+    },
+    {
+      "id": 14,
+      "sideId": 4,
+      "vegetableId": 2,
+      "entreeId": 3
+    },
+    {
+      "id": 15,
+      "sideId": 5,
+      "vegetableId": 3,
+      "entreeId": 2
     }
   ]
 }
